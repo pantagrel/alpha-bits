@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Kristin Fork"
+author: "Forking Kristin"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -30,3 +30,6 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-remote-theme
+
+remote_theme: niklasbuschmann/contrast@v2.11
